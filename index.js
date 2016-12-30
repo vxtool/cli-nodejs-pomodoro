@@ -25,8 +25,8 @@ const init = () => {
   pomodoro.setTimer(pomodoroConfig.time, 'minutes');
   pomodoro.setMessage(pomodoroConfig.message);
 
-  var bar = new progress(':timerFrom [:bar] :timerTo'.red, {
-    complete: '=',
+  let bar = new progress(':timerFrom [:bar] :timerTo'.red, {
+    complete: '|',
     incomplete: ' ',
     width: 50,
     total: pomodoro.totalSeconds(),
@@ -73,7 +73,7 @@ const notify = () => {
   notifier.notify({
     title: 'Pomodoro Node JS',
     message: pomodoro.getMessage(),
-    sound: 'true',
+    sound: 'true'
   });
 
   process.exit(0);
