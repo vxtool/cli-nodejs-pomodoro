@@ -5,14 +5,14 @@
 
 ## Usage
 
-  >Options:
-  >
-  >-h, --help             output usage information
-  >-V, --version          output the version number
-  >-s, --shortbreak       Add short break timer
-  >-l, --longbreak        Add long break timer
-  >-t, --timer <time>     Add specific time in minutes
-  >-a, --add-task <task>  Add a new task
+###Options:
+
+- -h, --help output usage information
+- -V, --version          output the version number
+- -s, --shortbreak       Add short break timer
+- -l, --longbreak        Add long break timer
+- -t, --timer <time>     Add specific time in minutes
+- -a, --add-task <task>  Add a new task
 
 ## Contributing
 
