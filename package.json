@@ -1,0 +1,27 @@
+{
+  "name": "pomodoro-nodejs",
+  "version": "1.0.0",
+  "description": "Pomodoro timer cli",
+  "main": "index.js",
+  "preferGlobal": true,
+  "keywords": [
+    "pomodoro",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cli-tools/pomodoro-nodejs"
+  },
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://desccoc.com.br)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "moment": "^2.12.0",
+    "node-notifier": "^4.5.0",
+    "progress": "^1.1.8"
+  },
+  "bin": {
+    "pomodoro-nodejs": "./index.js"
+  }
+}
