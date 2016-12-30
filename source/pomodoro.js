@@ -1,10 +1,12 @@
 const moment = require('moment');
 const pad = require('./utils');
 
-const Pomodoro = () => {
-  this.timerFrom = '';
-  this.timerTo = '';
-  this.message = '';
+class Pomodoro {
+  constructor(){
+    this.timerFrom = '';
+    this.timerTo = '';
+    this.message = '';
+  }
 }
 
 Pomodoro.prototype.setTimer = (time, duration) => {
