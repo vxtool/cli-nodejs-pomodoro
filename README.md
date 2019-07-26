@@ -1,7 +1,12 @@
 # CLI Pomodoro with Node.js
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/cli-tools/pomodoro-nodejs.svg?style=flat-square)](https://github.com/cli-tools/pomodoro-nodejs/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/cli-nodejs-pomodoro.svg)](https://github.com/org-victorinox/cli-nodejs-pomodoro/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/cli-nodejs-pomodoro.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/cli-nodejs-pomodoro.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/cli-nodejs-pomodoro.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/cli-nodejs-pomodoro.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/cli-nodejs-pomodoro/total.svg)
 
 ## Usage
 
@@ -24,7 +29,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/cli-tools/pomodoro-nodejs/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/cli-nodejs-pomodoro/releases) for detailed changelog.
 
 ## License
 
